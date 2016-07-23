@@ -51,6 +51,83 @@ const data =  [
     year: 1901,
     source: "https://scaryhauntedhouse.wordpress.com/5-the-stranahan-house/",
     images: [require("./assets/images/3-001.jpg")]
+  },
+  {
+    id: 4,
+    lat: 26.1194327,
+    lon: -80.1443715,
+    title: "Bryan Bldg.",
+    address: "01-221 SW Second Street, Fort Lauderdale, FL 33301",
+    description: "Built by pioneer developer Tom Bryan in 1913, survived the 26 hurricane. Photo shows the Auto Nation Tower was built around it.",
+    year: 1913,
+    source: "https://www.google.com/maps/@26.1194327,-80.1443715,3a,60y,90t/data=!3m6!1e1!3m4!1sInUzdo-1jymYxrp8Pn0tuA!2e0!7i13312!8i6656?hl=en",
+    images: [require("./assets/images/4-001.png")]
+  },
+  {
+    id: 5,
+    lat: 26.1184659,
+    lon: -80.1579341,
+    title: "Fire Station #03",
+    address: "1022 W. Las Olas Blvd., Fort Lauderdale, FL 33301",
+    description: "From Francis L. Abreu",
+    year: 1901,
+    source: "Francis L. Abreu (https://docs.google.com/spreadsheets/d/1UpeSBG9GnyxsosPq71oxQf6yK2TkHCH0I0fw1Vwk_m4/edit#gid=2144963843)",
+    images: [require("./assets/images/5-001.png")]
+  },
+  {
+    id: 6,
+    lat: 26.1253167,
+    lon: -80.1375464,
+    title: "St Anthony School",
+    address: "800 NE 3rd Street, Fort Lauderdale, FL 33301",
+    description: "From Francis L. Abreu - School - Status: OK - National Register",
+    year: 1901,
+    source: "Francis L. Abreu (https://docs.google.com/spreadsheets/d/1UpeSBG9GnyxsosPq71oxQf6yK2TkHCH0I0fw1Vwk_m4/edit#gid=2144963843)",
+    images: [require("./assets/images/6-001.png")]
+  },
+  {
+    id: 7,
+    lat: 26.1206238,
+    lon: -80.1366427,
+    title: "Towers Apts",
+    address: "824-828 SE 2nd Street, Fort Lauderdale, FL 33301",
+    description: "From Francis L. Abreu - Hotel and Apts. - Status OK",
+    year: 1901,
+    source: "Francis L. Abreu (https://docs.google.com/spreadsheets/d/1UpeSBG9GnyxsosPq71oxQf6yK2TkHCH0I0fw1Vwk_m4/edit#gid=2144963843)",
+    images: [require("./assets/images/7-001.png")]
+  },
+  {
+    id: 8,
+    lat: 26.1199521,
+    lon: -80.148226,
+    title: "New River Inn",
+    address: " 219 SW 2nd Ave, Fort Lauderdale, FL 33301 ",
+    description: "Built by Edwin T. King for Philemon Bryan in a masonry vernacular style. Beach sand was used to create the concrete construction to make the building hurricane resistant. Originally called the New River Hotel, this building replaced a 1902 wooden structure known as the Bryan Hotel, which was moved to the rear of the site and served as a hotel annex. In the 1940s the name was changed to the New River Inn and it served as a hostelry until 1955. Today it serves as home of the Fort Lauderdale Historical Society.",
+    year: 1901,
+    source: "https://www.fortlauderdalehistoricalsociety.org/visit/new-river-inn-museum-of-history/",
+    images: [require("./assets/images/8-001.jpg")]
+  },
+  {
+    id: 9,
+    lat: 26.1183398,
+    lon: -80.1368793,
+    title: "Himmarshee CT. Apts",
+    address: "717 SE  2nd Street, Fort Lauderdale, FL 33301",
+    description: "From Francis L. Abreu - Apts. - Status Addition / Designated",
+    year: 1901,
+    source: "Francis L. Abreu (https://docs.google.com/spreadsheets/d/1UpeSBG9GnyxsosPq71oxQf6yK2TkHCH0I0fw1Vwk_m4/edit#gid=2144963843)",
+    images: [require("./assets/images/9-001.png")]
+  },
+  {
+    id: 10,
+    lat: 26.1149318,
+    lon: -80.1338087,
+    title: "Bodor/Powell",
+    address: "1101 SE 6th Street, Fort Lauderdale, FL 33301",
+    description: "From Residence - Status Excellent",
+    year: 1901,
+    source: "Francis L. Abreu (https://docs.google.com/spreadsheets/d/1UpeSBG9GnyxsosPq71oxQf6yK2TkHCH0I0fw1Vwk_m4/edit#gid=2144963843)",
+    images: [require("./assets/images/10-001.jpg")]
   }
 ]
 
